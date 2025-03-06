@@ -1,0 +1,8 @@
+Package: textme
+Title: My Text Mining Package
+Version: 0.1.0
+Authors@R: person("Tanush Gautam", email = "tanushgautam21@gmail.com", role = c("aut", "cre"))
+Description: Collection of text mining functions for my exam.
+License: MIT
+Encoding: UTF-8
+LazyData: true
